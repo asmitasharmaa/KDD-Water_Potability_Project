@@ -1,4 +1,4 @@
-Water Potability Prediction
+#Water Potability Prediction#
 By: Asmita Sharma and Pranshul Lakhanpal 
 
 Summary Statement
