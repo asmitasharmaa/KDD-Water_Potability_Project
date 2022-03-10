@@ -1,7 +1,7 @@
-#Water Potability Prediction#
+## Water Potability Prediction
 By: Asmita Sharma and Pranshul Lakhanpal 
 
-Summary Statement
+## Summary Statement
 
 “Water, water everywhere but not a drop to drink.” India is a vastly populated country and water is a very precious resource. Having access to clean and safe drinking water is a basic right but not everyone has access to it. Contaminated water is a cause of a plethora of diseases like typhoid, cholera, etc that cause a lot of health concerns.
 
@@ -12,7 +12,7 @@ Since our data is composed of numerical data, we will be using Linear Regression
 We will be developing a metric to fill in the missing data points as well. And we would use feature importance to determine which data points help the model to provide better results.  If time permits, we would also like to do hyperparameter tuning to further improve the accuracy of our model's prediction. The data processing, model performance and accuracy, and project results will be consolidated into a presentation.
 
 
-Specific Aims
+## Specific Aims
 
 Finding which model fits best with numerical data to predict water potability
 We think that Gradient Boosting would be the best performing model out of them all because it accounts for overfitting.
@@ -27,7 +27,7 @@ Which features are the most dominantly used by our models when making a predicti
 It is hard to tell which feature would be the most dominantly used while making predictions by just looking at the data but we feel like the pH, Hardness, and Turbidity will be the most important features while determining the potability of the water.
 
 
-Team Outline
+## Team Outline
 
 Asmita Sharma:
 Cleaning data and filling in missing values
@@ -46,7 +46,7 @@ Comparing the performance of models and consolidating results
 Working on the presentation
 
 
-Timeline
+## Timeline
 
 Week 1: Cleaning and transforming data as per the requirements
 
@@ -59,7 +59,7 @@ Week 4: Work on data visualization, analyze and compare results from all 3 model
 Week 5: Create the slides and deliver a presentation
 
 
-Final Deliverable
+## Final Deliverable
 The data processing, model performance and accuracy, and project results will be consolidated into a presentation that we will be doing at the end of the quarter. We will also be submitting an IPython Notebook with all the code we wrote for this project.
 
 
